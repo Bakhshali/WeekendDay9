@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0r/lraeddgRlUkXM2qjj19CYGsq9qHvZ6p34gg8mEQh2TrqBANWN3WzhYJ0ErRSqjiUMBVAY2brN6tZhUIocXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tu78rfrfu\\source\\repos\\Weekend Day 9\\Weekend Day 9\\Weekend Day 9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tu78rfrfu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
